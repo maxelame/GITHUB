@@ -8,7 +8,7 @@ GitHub. HW_2
 - Charles					git branch Charles
 - Mobile testing				git branch Mobile_testing
 
-2. Запушить все ветки на внешний репозиторий 	[git push -u origin all ]
+2. Запушить все ветки на внешний репозиторий 	[git push -u origin all]
 						git push -u origin BagReports
 						git push -u origin Charles
 						git push -u origin CheckLists
